@@ -16,12 +16,10 @@ Python development, Computer Vision, Generative AI, RAG
 applications and Robotic Process Automation.
 
 ## Resumes
-
 | Specialization | Resume |
 |---|---|
-| AI/ML & Python Development | [View AI/ML Resume](./Bhushan_Walunj_Resume_AI_ML.pdf) |
-| RPA & Intelligent Automation | [View RPA Resume](./Bhushan_Walunj_Resume_RPA.pdf) |
-
+| AI/ML & Python | [View / Download AI Resume](https://github.com/bhushan191004/Resume-bhushan-pod/raw/refs/heads/main/Bhushan_Walunj_Resume_AI_ML.pdf) |
+| RPA & Automation | [View / Download RPA Resume](https://github.com/bhushan191004/Resume-bhushan-pod/raw/refs/heads/main/Bhushan_Walunj_Resume_RPA.pdf) |
 ## Technical Skills
 
 - **Programming:** Python, C++, MATLAB
